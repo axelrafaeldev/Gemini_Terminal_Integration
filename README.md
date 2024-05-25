@@ -1,7 +1,8 @@
 Ferramenta de integração gemini no terminal 
 ________________________________________________________________________________
 INSTALAÇÃO : USAR A CHAVE API DISPONIBILIZADA NO AISTUDIO 
-A CHAVE DEVE SER COPIADA PARA O ARQUIVO .TXT COM O CAMINHO INDICADO NO CÓDIGO 
+-
+A CHAVE DEVE SER COPIADA PARA O ARQUIVO CONFIG.TXT COM O CAMINHO INDICADO NO CÓDIGO 
 ________________________________________________________________________________
 
 Comandos para integrar no sistema linux :
