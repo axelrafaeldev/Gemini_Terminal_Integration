@@ -8,7 +8,9 @@ ________________________________________________________________________________
 Comandos para integrar no sistema linux :
 
 mv gemini.py //bin/gemini
+-
 chmod +x gemini 
+-
 ________________________________________________________________________________
 
 A execução é feita por meio do terminal , usando o comando "gemini"
