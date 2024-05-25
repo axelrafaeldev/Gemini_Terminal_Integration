@@ -1,4 +1,4 @@
-Ferramnenta de integração do gemini no terminal 
+Ferramenta de integração gemini no terminal 
 ________________________________________________________________________________
 INSTALAÇÃO : USAR A CHAVE API DISPONIBILIZADA NO AISTUDIO 
 A CHAVE DEVE SER COPIADA PARA O ARQUIVO .TXT COM O CAMINHO INDICADO NO CÓDIGO 
